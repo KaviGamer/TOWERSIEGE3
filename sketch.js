@@ -14,7 +14,7 @@ var backgroundImg;
 var bg;
 var bg = "bg1.png";
 function preload(){
-  polygon_img=loadImage("hex.png");
+  polygon_img=loadImage("Hex.png");
 }
 function setup() {
   createCanvas(900,400);
